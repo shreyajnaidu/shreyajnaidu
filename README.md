@@ -110,10 +110,12 @@ AI-powered news aggregation platform that delivers intelligent categorization, s
 
 #### Tech Used
 - Next.js
-- Node.js
+- FastAPI
 - TypeScript
-- MongoDB
+- PostgreSQL
 - AI APIs
+- Numpy Pandas
+- Scikit learn
 
 ---
 
